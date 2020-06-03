@@ -2,7 +2,7 @@
 Script to renew your zimbra certificate using Certbot's cloudflare DNS authentication.
 
 
-Using this script that can be put in cron tab you can automate renew of your zimbra certificate using let's encrypt (Certbot) and auto deploy it
+Using this script that can be put in cron tab you can automate renew of your zimbra certificate using let's encrypt (Certbot) and auto deploy it.
 
 
 This script is run as root or set in root crontab.
